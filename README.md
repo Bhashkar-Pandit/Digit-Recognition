@@ -2,7 +2,7 @@
 
 __MNIST Database : http://yann.lecun.com/exdb/mnist/__
 
-__IMPORTANT :__ Download all the four files available in this site and unzip it in __src__ directory
+__IMPORTANT :__ Download the files from the above given link. There must be 4 files and extract them in the src folder.
 
 I used python-mnist library to load the mnist data.
 
